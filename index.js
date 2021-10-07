@@ -3,4 +3,10 @@ function showNumber(number) = {
     console.log('nose!!')
 }
 
-let suma = a+b;
+const whoIsBigger() => {
+    return a > b ? `El mayor es ${a} el mayor es ${B}`
+}
+
+const multiplyBy = (a, by) => {
+    return a * by
+}
